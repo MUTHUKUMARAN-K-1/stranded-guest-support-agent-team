@@ -1,0 +1,18 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.test-temp*/
+*.egg-info/
+runtime/
+*.sqlite3
+*.sqlite3-*
+.env
+.env.*
+!.env.example
+# Existing, unrelated files in the user's project folder.
+Meeting-Notes.md
+Mock Shopify Admin API tools for the merchant support agents.py
+Shopify Merchant Ticket Test Set (24 labelled tickets).csv
